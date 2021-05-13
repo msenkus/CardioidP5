@@ -5,3 +5,6 @@ Note: Numbers once around the circle 1 full revolution repesent the same number 
 
 1 = 11 , 21 , 31...
 2 = 12, 22, 32....
+
+
+Screenshot images posted.
